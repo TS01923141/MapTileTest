@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MapTileTest</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="cancel">取消</string>
+    <string name="google_map_style_hide">[
+        {
+        "stylers": [
+        {
+        "visibility": "off"
+        }
+        ]
+        }
+        ]</string>
+</resources>
